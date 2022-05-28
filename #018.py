@@ -12,4 +12,4 @@ tangente = tan(radians(an))
 
 print(f"O valor do SENO do ângulo {an}, é {seno:.2f}")
 print(f"O valor do COSSENO do ângulo {an}, é {cosseno:.2f}")
-print(f"O valor do TANGENTE do ângulo {an}, é {tangente:.2f}")
+print(f"O valor da TANGENTE do ângulo {an}, é {tangente:.2f}")
