@@ -12,4 +12,4 @@ if m < 5.0:
 elif m >= 5 and m <= 6.9:
     print(f"A média do aluno é {m} e ele está de recuperação.")
 else:
-    print(f"A média do aluno é {m} e com isso ele está aprovado!")
+    print(f"A média do aluno é {m} e com isso ele está aprovado!!")
